@@ -6,7 +6,6 @@ import { useLocation, useNavigate } from "react-router-dom";
 import { message } from "antd";
 // import useStore from "@/store/store";
 import { HomeIcon, TimeIcon, IconWrapper } from "../../icons";
-// import { LoginModalComponent, RegistrationModalComponent } from "..";
 // import styles from "./styles.module.css";
 import { LogoutIcon } from "../../icons/LogoutIcon";
 import RegisterIcon from "../../icons/RegisterIcon";
